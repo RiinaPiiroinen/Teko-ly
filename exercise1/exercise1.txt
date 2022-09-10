@@ -1,0 +1,17 @@
+Classify the following learning problems as supervised learning, unsupervised learning and
+reinforcement learning tasks.
+
+(a) Identification of products frequently bought together
+- Unsupervised learning task
+(b) Chess computer capable of learning from previous games
+- Reinforcement learning task
+(c) Spam recognition and filtering
+- Supervised learning task
+(d) Classification of applicants as credit-worthy or unworthy
+- Supervised learning task
+(e) Object recognition in computer vision
+- Supervised learning task
+(f) Obstacle avoidance in robotics
+- Reinforcement learning task
+(g) Automatic sorting of images wrt the depicted objects
+- Supervised learning task
